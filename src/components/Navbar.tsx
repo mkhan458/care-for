@@ -4,7 +4,7 @@ const Navbar = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3">
     <div className="container">
       <Link className="navbar-brand fw-bold text-primary" to="/">
-        Care Agency
+        Care Diglish
       </Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
